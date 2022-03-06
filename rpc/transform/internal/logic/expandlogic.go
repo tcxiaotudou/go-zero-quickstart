@@ -6,7 +6,7 @@ import (
 	"go-zero-quickstart/rpc/transform/internal/svc"
 	"go-zero-quickstart/rpc/transform/transform"
 
-	"github.com/tal-tech/go-zero/core/logx"
+	"github.com/zeromicro/go-zero/core/logx"
 )
 
 type ExpandLogic struct {
